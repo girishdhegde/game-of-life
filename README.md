@@ -26,4 +26,5 @@ clone this repository and execute the following commands:
                  
    
 ## Screen-shots
-<img src="./screenshots/img1.png" width="400"/><img src="./output/map1/generation_0.png" width="400"/>
+<img src="./screenshots/img1.png">
+<img src="./screenshots/img2.png">
